@@ -1,0 +1,272 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proposal and considerations relating to an office of credit upon land security: proposed to their excellencies the Lords Justices: and to the lords of the Privy Council, and Parliament of Ireland. / By Dr. Hugh Chamberlen.</title>
+            <author>Chamberlen, Hugh, fl. 1720 .</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01982</idno>
+            <idno type="STC">Wing C1879A</idno>
+            <idno type="STC">ESTC R233230</idno>
+            <idno type="EEBO-CITATION">47012342</idno>
+            <idno type="OCLC">ocm 47012342</idno>
+            <idno type="VID">174307</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01982)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174307)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2683:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proposal and considerations relating to an office of credit upon land security: proposed to their excellencies the Lords Justices: and to the lords of the Privy Council, and Parliament of Ireland. / By Dr. Hugh Chamberlen.</title>
+                  <author>Chamberlen, Hugh, fl. 1720 .</author>
+                  <author>England and Wales. Lords Justices.</author>
+                  <author>England and Wales. Privy Council.</author>
+                  <author>Ireland. Parliament.</author>
+               </titleStmt>
+               <extent>[9], 15 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and sold by T. Sowle ...,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1697.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in: Columbia University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Land banks --  Ireland --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-08</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-08</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:174307:1" rendition="simple:additions"/>
+            <pb facs="tcp:174307:1" rendition="simple:additions"/>
+            <pb facs="tcp:174307:2"/>
+            <pb facs="tcp:174307:2"/>
+            <pb facs="tcp:174307:3"/>
+            <pb facs="tcp:174307:3"/>
+            <pb facs="tcp:174307:4"/>
+            <pb facs="tcp:174307:4"/>
+            <pb facs="tcp:174307:5"/>
+            <pb facs="tcp:174307:5"/>
+            <p>A PROPOSAL AND CONSIDERATIONS RELATING TO AN Office of Credit UPON Land Security: Propoſed to their Excellencies The Lords Juſtices: And to the Lords of the Privy Council; AND Parliament of <hi>Ireland.</hi>
+            </p>
+            <p>By Dr. <hi>H<g ref="char:V">Ʋ</g>GH CHAMBERLEN.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed and Sold by <hi>T. Sowle</hi> in <hi>White-Hart-Court</hi> in <hi>Gracious-ſtreet;</hi> and at the <hi>Bible</hi> in <hi>Leaden-hall-ſtreet</hi> near the <hi>Markt,</hi> 1697.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:174307:6"/>
+            <pb n="3" facs="tcp:174307:6"/>
+            <head>A PROPOSAL AND CONSIDERATIONS Relating to an <hi>Office</hi> of <hi>Credit</hi> upon <hi>Land Security,</hi> &amp;c.</head>
+            <p>1. <hi>Conſi<g ref="char:EOLhyphen"/>deration.</hi> WHEREAS, It is moſt evident, that a wiſe and large Eſtabliſhment, and a continued Courſe of Conſiderable Trade, is a ſure way where<g ref="char:EOLhyphen"/>by any Nation, Capable of it, may attain to Honour, Wealth and Power: Becauſe, That thereby will ariſe, <hi>Firſt,</hi> A great Increaſe of Money, which anſwereth all things. <hi>Secondly,</hi> An Increaſe of People, which is the Strength of any Kingdom or State; and who do always gather to thoſe Places where Money is in abundance. And <hi>Thirdly,</hi> An Increaſe of Shipping, which is the ſtrongeſt <hi>Rampart</hi> of an Iſland; and by which Merchandiſe is Conveyed to the moſt Pro<g ref="char:EOLhyphen"/>fitable Market. It is therefore the undoubted Intereſt of the People of <hi>Ireland;</hi> eſpecially thoſe who have the greateſt Eſtates, whether of Land or Money, to Imploy themſelves to the Im<g ref="char:EOLhyphen"/>provement of Trade, as univerſally as is poſſible: And it is Hum<g ref="char:EOLhyphen"/>bly Conceived, that this Propoſition needs no other Proof or Il<g ref="char:EOLhyphen"/>luſtration, than what plainly ariſes from the Obſervation of thoſe many and great Advantages derived from Trade to the Kingdom
+<pb n="4" facs="tcp:174307:7"/>of <hi>England,</hi> the States of the United Provinces, and all other King<g ref="char:EOLhyphen"/>doms and States that have applied themſelves to Commerce.</p>
+            <p>2. <hi>Conſideration.</hi> The Kingdom of <hi>Ireland</hi> is as Capable of making Advantages by Trade, as any other Kingdom or State; being Sur<g ref="char:EOLhyphen"/>rounded with good <hi>Sea-Ports</hi> upon all its Coaſts, and having a very Great and Profitable Subject of Trade proper to it: The Land affording Grain, Cattel, Wool, Flax, Coal, Salt, Copper, Iron, Lead, and other Native Products; beſides the Fiſhing of the Rivers, Loughs, and Seas. This Kingdom hath likewiſe great Numbers of People, either not Imployed, or not ſo fully and pro<g ref="char:EOLhyphen"/>fitably as might be; and hath alſo ſuch a Proviſion of Shipping as may ſerve to begin a Trade; and may ſoon be Increaſed, if a greater Trade be ſet up. The Truth of this Conſideration will appear, by Comparing the Particulars therein Contained with thoſe of the United Provinces; where the proper Subject of Trade comes very far ſhort of that of this Kingdom: Which Provinces, from very ſmall beginnings, and under the Diſcouragement of a War with <hi>Spain,</hi> at that time the moſt Potent Kingdom of <hi>Europe,</hi> have yet raiſed themſelves within a ſhort Period of Years to that Immenſe Wealth, Grandeur, and Power, that now they poſſeſs; and have acquired it chiefly by their Trafficking in thoſe Subjects of Trade, which properly belong to this and other Nations.</p>
+            <p>3. <hi>Conſideration.</hi> The People of this Kingdom, who have had Liberal Education, are generally in all Countries allowed to be of ſufficient Ingenuity and Diligence; and the Commons being Do<g ref="char:EOLhyphen"/>cil and Tractable, and likewiſe Robuſt and Vigorous of Body; and ſufficiently inclined to beſtow their Labour, where there is Proſpect of moderate Gain; and being hitherto accuſtomed to ſmall Wages: It may juſtly be Concluded, that no People in the World are Naturally more fitted, or better qualified, for ſetting up, manageing, and proſecuting a Great and Conſiderable Trade.</p>
+            <p>4. <hi>Conſideration.</hi> It is moſt certainly true in Fact; nor can it be unknown to the Intelligent in this Nation; that the greateſt Tradings in the World are carried on, not ſo much by the Species
+<pb n="5" facs="tcp:174307:7"/>of Money, which is in Stock and Caſh; as by a great Credit, at<g ref="char:EOLhyphen"/>tained to, by Means, partly of their Viſible Subject of Trade, partly of their Pains and Application to Traffick; but moſt of all upon account of the Reputation and Opinion of the great Pro<g ref="char:EOLhyphen"/>fits made in the Courſe of a Proſperous Trade; even where the Native and Proper Subject of Trade keeps no Proportion with the Trade carried on; as it is in the United Provinces, where Credit is the chief Inſtrument of their Commerce; and that Cre<g ref="char:EOLhyphen"/>dit raiſed upon a Fund, more of Opinion or Reputation, than real. If therefore in this Kingdom, the want of a Sufficient Stock of Money for the carrying on a great Trade, can be made up by a Credit grounded upon a more Real and Subſtantial Fund, than the Credit of any other Nation, either at preſent is, or probably can be founded upon; then certainly it will moſt reaſonably follow; that this Kingdom is rather more capable of carrying on Great and National Trades, than moſt other Kingdoms or States in <hi>Europe.</hi>
+            </p>
+            <p>5. <hi>Conſideration.</hi> The Titles and Tenures of Eſtates, eſpecially Land Eſtates, in this Kingdom being well known, Sure, and Sta<g ref="char:EOLhyphen"/>ted; and with ſufficient eaſe and certainty Examinable, by reaſon of the Records here in uſe; and that the Titles are Dependant on late Acts of Parliament; and an evident, clear, and firm Secu<g ref="char:EOLhyphen"/>rity upon Land, being the beſt and moſt ſubſtantial Fund of Cre<g ref="char:EOLhyphen"/>dit; this Kingdom is Capable, in this reſpect, to raiſe a Credit ſufficient for Improving, to the uttermoſt, the great Subject of Trade that now it unprofitably Poſſeſſes; and this Credit as far to exceed that in practice with other Nations, as a real Solid and Permanent Fund exceeds thoſe of Opinion and Reputation; for ſuch, all thoſe of other Nations, will be found to be, when duly weighed with that, hereby Propounded for this Kingdom.</p>
+            <p>Upon theſe Conſiderations, which may ſo juſtly be Preſumed to Induce the Right Honourable the Lords Juſtices, and Council, and the Lords and Commons of Parliament in <hi>Ireland,</hi> to receive and examine a Propoſal, that renders to this Kingdom the certain and effectual Means of ſo great Wealth and Honour;</p>
+            <p>
+               <hi>The ſaid Dr.</hi> Hugh Chamberlen <hi>Humbly Offers to their Wiſdom,</hi>
+            </p>
+            <floatingText xml:lang="eng" type="proposal">
+               <body>
+                  <pb n="6" facs="tcp:174307:8"/>
+                  <head>A <hi>PROPOSAL</hi> for Eſtabliſhing a Solid National and Current <hi>Credit</hi> upon Land, for the Kingdom of <hi>Ireland,</hi> viz.</head>
+                  <p>THat an Act of Parliament, proper to ſuch an end, do paſs in this Kingdom of <hi>Ireland,</hi> to enable to Iſſue Credit up<g ref="char:EOLhyphen"/>on Land, in a Method and Regulation ready to be therefore ten<g ref="char:EOLhyphen"/>dered.</p>
+                  <p>That this Credit be made Current in all Payments, to and from this Crown, and to and from all other Perſons and Bodies Corporate or Politick; and that Payment or Tender in this Credit, be to all Intents and Purpoſes as good as if made in the uſual Species of Money; and that all Bargains, Contracts and Agreements tending to impair the Currency of this Credit, ſo as to reduce it beneath a <hi>Par,</hi> with the uſual Species of the com<g ref="char:EOLhyphen"/>mon Current Money, be null and void; and the Contractors Fineable in the Kings Courts; one half to the King, and the other half to the Proſecutor.</p>
+                  <p>That the Lords Juſtices, together with about Eight or Ten other Noble Men, or other Perſons of Quality, may by the ſaid Act be appointed <hi>Noble Viſitors,</hi> to Inſpect and Prevent any Da<g ref="char:EOLhyphen"/>mage, by Miſ-management, to the King and Country.</p>
+                  <p>That the Conſtitution and Eſtabliſhment of this Office of Land-Credit do conſiſt of three chief Branches, <hi>viz.</hi>
+                  </p>
+                  <p n="1">1. <hi>The Branch of Noble Viſitors; to conſist of Twelve Noble Per<g ref="char:EOLhyphen"/>ſons, or Perſons of Quality.</hi>
+                  </p>
+                  <p n="2">2. <hi>The Branch of Land Proprietors; to conſiſt of the whole Body, or any Hundred or more of them.</hi>
+                  </p>
+                  <p n="3">3. <hi>The Branch of Managers; to conſiſt of</hi> 36 <hi>Perſons, of whom the Original <g ref="char:V">Ʋ</g>ndertakers are always part.</hi>
+                  </p>
+               </body>
+            </floatingText>
+            <pb n="7" facs="tcp:174307:8"/>
+            <list>
+               <head>And of Three Principal Chambers, <hi>viz.</hi>
+               </head>
+               <item>1. <hi>The Chamber of Comptrol; Repreſenting the Branch of the Vi<g ref="char:EOLhyphen"/>ſitors; to conſiſt of</hi> 36 <hi>Gentlemen of Quality;</hi> 12 <hi>of them choſen by the Viſitors;</hi> 12 <hi>by the Land Proprietors; and</hi> 12 <hi>by the Ma<g ref="char:EOLhyphen"/>nagers.</hi>
+               </item>
+               <item>2. <hi>The Chamber of Trade; Repreſenting the Branch of the Land Proprietors; to conſiſt of</hi> 36 <hi>Merchants, or Gentlemen skill'd in Trade: Of whom,</hi> 12 <hi>choſen by the Viſitors;</hi> 12 <hi>by the Land Proprietors; and</hi> 12 <hi>by the Managers.</hi>
+               </item>
+               <item>3. <hi>The Chamber of Original <g ref="char:V">Ʋ</g>ndertakers and Intendants; Repre<g ref="char:EOLhyphen"/>ſenting the Branch of Managers; to conſiſt only of Dr.</hi> Chamberlen, <hi>and the</hi> Engliſh <hi>Gentlemen, his Aſſociates; and not exceeding</hi> 13 <hi>in Number.</hi>
+               </item>
+            </list>
+            <p>That there be other Subordinate Chambers; as, of Truſtees, of Audit, of Treaſury, of Survey, of Accompt, of Counſel, of Bills, of Check, of Securities, of Inſurance, and all needful and convenient Officers, and Miniſters, as Agent, Secretaries, Regi<g ref="char:EOLhyphen"/>ſter, Clerks, Houſe-keepers, Chamber-keepers, Meſſengers, Watch<g ref="char:EOLhyphen"/>men, <hi>&amp;c.</hi>
+            </p>
+            <p>That the Chamber of Original Undertakers and Intendants have the ſole right to prepare the Manner of Tranſacting throughout the whole; and all Rules, Orders, and By-laws, which are to be confirmed by the Viſitors, Managers, and Comp<g ref="char:EOLhyphen"/>trollers, as they ſee cauſe.</p>
+            <p>That each Chamber Govern its own Members, and the Per<g ref="char:EOLhyphen"/>ſons immediately Subordinate to it; but that Appeals may lye: All (except the Viſitors) may appeal to the Managers; and from the Managers to the Viſitors; and from the Viſitors to the Five Governing Branches and Chambers, <hi>viz.</hi> Of Viſitors, of Mana<g ref="char:EOLhyphen"/>gers, of Original Undertakers and Intendants, of Comptrol, and of Trade: Who, or any three or more, have the final D<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ciſion: The Managers can appeal only to the Viſitors; and from
+<pb n="8" facs="tcp:174307:9"/>thence to the ſaid Five Governing Branches and Chambers; to whichlaſt, the Viſitors can only Appeal.</p>
+            <p>The Branch of Land Proprietors have no ſhare in the Govern<g ref="char:EOLhyphen"/>ing Part: They may meet and Repreſent; and the Five Governing Branches and Chambers are to meet and Conſider of what the Pro<g ref="char:EOLhyphen"/>prietors ſhall Repreſent; and Order therein as they the ſaid Branches and Chambers ſhall think fit. The Land Proprietors are only twice to be Aſſembled of abſolute neceſſity, <hi>viz.</hi> Once, when 50000 <hi>l. per Annum</hi> is Subſcribed; and the ſecond time, when 100000 <hi>l. per An<g ref="char:EOLhyphen"/>num</hi> ſhall be Actually Setled; or at any time after, upon the Order and Deſire of the Five Governing Branches and Chambers, or any three or more of them: Or by Order of the Branch of Viſitors, upon Requeſt of any Fifty Perſons or more, being Proprietors for one Third or more, of the whole of the Annual Payments then in being to the Undertaking.</p>
+            <p>That the Chamber of Trade ſhall Defray it ſelf, and make its own Orders; but ſhall obey all Orders of the Five Governing Branches and Chambers, or any Three or more of them. That, to the <hi>Engliſh</hi> Undertakers and Managers, there be alſo added a double Number in that Station, of Perſons of the Kingdom of <hi>Ireland.</hi>
+            </p>
+            <p>That in all Stations, the <hi>Engliſh</hi> Undertakers have the intire Nomination, for the firſt Seven Years, of one Third part; the other two Thirds to be filled by joint Conſent of all the Under<g ref="char:EOLhyphen"/>takers and Managers, both <hi>Engliſh</hi> and <hi>Iriſh:</hi> But that, after the firſt Seven Yeares, all Vacancies be ſupplied by the Branch of Mana<g ref="char:EOLhyphen"/>gers, which will conſiſt of two Thirds <hi>Iriſh,</hi> to one Third <hi>Engliſh.</hi>
+            </p>
+            <p>That out of every Eſtate to be thus ſettled on the Office; the Credit being, as aforeſaid, made Current by Law; One Tenth part of the Credit ſhall be placed in the Joint Stock of Trade; the Profits to be to the Uſe of the Crown; but the Principal not to be drawn out, till the end of the Undertaking.</p>
+            <floatingText xml:lang="eng" type="text">
+               <body>
+                  <head>That the Credit to be Raiſed upon Eſtates be thus, <hi>viz.</hi>
+                  </head>
+                  <p>One Hundred and Fifty Pounds <hi>per Annum</hi> being ſettled for 150 Years; to Secure the Payment of 100 <hi>l. per Annum</hi> for 100 Years;
+<pb n="9" facs="tcp:174307:9"/>One Hundred Years Credit is thereupon to be Raiſed, by way of Anticipation, and Iſſued to the ſeveral Parties or Uſes in Four Payments in equal Portions: That is to ſay, One Fourth at Sealing the Writings; One Fourth at the end of one Year; One other Fourth at the end of two Years; and the remaining Fourth at the end of three Years.</p>
+                  <trailer>And the Credit ſo Iſſued will be to theſe Uſes, <hi>viz.</hi>
+                  </trailer>
+               </body>
+            </floatingText>
+            <p>Forty Years Value to the Proprietor.</p>
+            <p>Thirty Years Value in Joint Stock of Trade; the Profits of which are, Firſt, To Indemnifie the Lands; and the Surplus (if any be) to the Proprietor; and the Principal is to go, when all the 100 Payments are ſatisfied, to thoſe, that ſhall then have the Right of the Lands. But in the mean time not to be liable to be drawn out, nor to be affected by any Bankrupcy, Judgment, Statute, Aſſignment, Sale, Device, Bequeſt, or other Conveyance, or Incumbrance; nor to paſs as a Chattel to Executors or Admi<g ref="char:EOLhyphen"/>niſtrators: But to attend the Poſſeſſion of the Land, from whence it was raiſed.</p>
+            <p>Ten Years Value to be placed alſo in the Joint Stock of Trade, whoſe Profits to go to the Uſe of the Crown; but the Principal not to be drawn out, till the end of the Undertaking.</p>
+            <p>And Twenty Years Value, for ſupport of the Office, and the Reſidue, if any, to Reward the Original Propoſers and Under<g ref="char:EOLhyphen"/>takers their Executors and Adminiſtrators.</p>
+            <p>That all neceſſary Encouragements and Priviledges be given to this Office, and its Joint Stock of Trade.</p>
+            <p>That all Eſtates, ſettled on this Office, ſhall be Obliged to make good the Annual Payments, notwithſtanding any Parlia<g ref="char:EOLhyphen"/>mentary or other Priviledges; or tho' the Poſſeſſion ſhould be Recovered from the Grantor; and that a brief Entry ſerve in<g ref="char:EOLhyphen"/>ſtead of tedious Forms.</p>
+            <pb n="10" facs="tcp:174307:10"/>
+            <p>That there be a Proviſo in the Act of Parliament; that, if by reaſon of any War, or other Publick Calamity, a ſtop ſhall be put to the Payments of theſe <hi>Annuities,</hi> or any of them; that in ſuch Caſe the Non Payment thereof ſhall be no Breach of Co<g ref="char:EOLhyphen"/>venant in any Land Proprietor; but that a further Term, of ſo many Years, as ſhall happen to be in Arrear, ſhall be added to the 150 Years, ſo as to ſecure the intire Payment of the 100 Years. And, if any Difference ariſe between the Office and any Proprietor, as to having the Benefit of this Proviſo; the ſame to be decided by the Chief Governour, and Privy Council; both Parties being firſt heard.</p>
+            <p>That theſe Bills be made Current in all Payments; and, as they are paid Yearly for Rent to the Undertakers, they are by them to be Deſtroyed: So that, at the end of One Hundred Years, they will be all recalled. Bills of Credit, thus founded upon Land, and ſtrengthened by the Sanction of Law, and made in a Form Incapable of Forgery; will be found an excellent Inſtru<g ref="char:EOLhyphen"/>ment or Medium of Trade; equal in all reſpects to Gold and Silver Money; and ſuperior to them, in divers Regards; they are more ſure than any Bills, Bonds, or Mortgages, or any man<g ref="char:EOLhyphen"/>ner of Credit now known in the World: They have a Real, Solid, Extrinſick and Permanent Value Inſeparably Adhering to them by Law: Nor can their Value be Impaired, or their Uſe taken away, by any future Parliaments, or by any Revolution of State; where all Mens Properties will not alſo be ſwallowed up. By this Means a conſiderable part of the Rents of the Nation may be appli'd to Trade; which otherwiſe could not be done: Thus may all the Poor be Profitably Imployed, all due Improvements made in Husbandry, and all needful Arts and Manufactures, eſpecially the Fiſhery and Linnen Manufactures, will be encreaſed by Sea and Land. Publick Taxes will become eaſie to the Subjects; and all, who Contribute to this Fund, will be made Richer by it, at the very entry into it; beſides what their ſhare in the future Trade will produce; and all other Perſons, as well as Land Subſcri<g ref="char:EOLhyphen"/>bers, will be great Gainers by the Plenty of the ſaid Bills to ſup<g ref="char:EOLhyphen"/>ply the place of Money.</p>
+            <pb n="11" facs="tcp:174307:10"/>
+            <p>No Perſon is forced to be Concerned; yet all are permitted, that ſhall deſire it; which renders it truly a free and common good. Although at the end of 100 Years, all this Credit will be called in; yet the Courſe of Trade, managed with it, cannot in the mean time but produce Gold, Silver and other Valuable Com<g ref="char:EOLhyphen"/>modities, and that to a far greater Value than the Bills them<g ref="char:EOLhyphen"/>ſelves; and the Trade founded by them will be perpetual. Theſe Bills, not paſſing out of the Kingdom, are an Advantage: For all wiſe Laws, reſtrain Money from going out; and forreign Trade ought not to be Managed with Money, but with the Na<g ref="char:EOLhyphen"/>tive Product and Manufacturies of the Kingdom. The Banks of <hi>Holland</hi> and <hi>Venice</hi> are Pregnant Inſtances of the Power of Cre<g ref="char:EOLhyphen"/>dit, under wiſe Regulation; and yet the Credits of both thoſe Banks are far Inferior to the Credit hereby propounded: They take the ready Money, and imploy it for the Government, and give their Bills to negotiate in Payment: So that, in any Exi<g ref="char:EOLhyphen"/>gence of State, if all their Creditors ſhould at once call for their ſeveral Debts, it may reaſonably be doubted, whether either of theſe Banks ſhould be able to anſwer their Credit: So that Opi<g ref="char:EOLhyphen"/>nion or Reputation is their great Support. But the Bank, hereby Propounded, touches no Mans ready Money, makes all Men concerned in it preſently much Richer than before; lays ſure Foun<g ref="char:EOLhyphen"/>dations of laſting National Trades; and becomes every Year a ſtronger Security than before; for, as the Term of Years leſſens, the Security becomes more ſtrong. Upon the whole, it is Hum<g ref="char:EOLhyphen"/>bly Conceived to have all the force of Demonſtration, that this Kingdom, Receiving and Enacting this Propoſal, cannot fail of a Succeſs, Superior to either of thoſe Powerful and Opulent States; becauſe of the Advantages before Enumerated, that this King<g ref="char:EOLhyphen"/>dom Poſſeſſes over them.</p>
+            <div type="part">
+               <head>A Compariſon of Money and Credit.</head>
+               <p>Money is a Common and Secure Pledge, inſtituted to ſupply the Defects of Barter, and to be the Meaſure, Medium, and Accompt of Trade.</p>
+               <pb n="12" facs="tcp:174307:11"/>
+               <p>Whatever can anſwer theſe ends, is duly qualified to be made Mony by the Laws of any Nation.</p>
+               <list>
+                  <head>Mony muſt have theſe Eſſential Qualities, <hi>viz.</hi>
+                  </head>
+                  <item>1. <hi>Value, to make it a Security in Exchange for all ſorts of Goods.</hi>
+                  </item>
+                  <item>2. <hi>Different Values, for convenience of greater and ſmaller Pay<g ref="char:EOLhyphen"/>ments.</hi>
+                  </item>
+                  <item>3. <hi>Stamp of the Government, not to give, but to atteſt its Value, and to Authorize the Currency of it.</hi>
+                  </item>
+                  <item>4. <hi>Durability, to prevent loſs by wearing out or eaſily Periſhing.</hi>
+                  </item>
+                  <item>5. <hi>Portability, for Eaſe of Carriage.</hi>
+                  </item>
+               </list>
+               <p>The Tallies, Bills of Credit, or Land-Money, hereby Propoſed by Dr. <hi>Chamberlen,</hi> will have all theſe Qualities of Money, equal<g ref="char:EOLhyphen"/>ly with Money of Gold and Silver, in all Reſpects, and Supe<g ref="char:EOLhyphen"/>rior in ſome.</p>
+               <p n="1">1. As to Value; Money of Gold and Silver exceeds not its Value by weight at the moſt, and is very often ſhort of it, either by too great Alloy in Coynage, or by Waſhing, Filing, or Dipping; whereas every Bill of this Credit will be Secured by Land of greater Worth than it is Coined for; and is not ſub<g ref="char:EOLhyphen"/>ject to any Alloy in Coinage, nor to have its Value diminiſh'd by any ſort of Fraudulent Arts whatever.</p>
+               <p n="2">2. As to different Values; that will be ſettled, as ſhall be Judged moſt Efficacious for the Ends of Trade.</p>
+               <p n="3">3. Stamp of the Government, 4. Durability, 5. Portability, are equally provided for, as in Gold and Silver; indeed more as to Portability; for 100 l. in Credit, will be of very little Weight or Bulk.</p>
+               <pb n="13" facs="tcp:174307:11"/>
+               <p>Mony is not ſo convient as this Credit in theſe reſpects, <hi>viz.</hi> for daily uſe in large Payments; for the trouble and loſs of time in Telling and Retelling; the danger of clipt and counterfeit Mony; the trouble of carrying great Sums from Houſe to Houſe; its being ſubject to be Tranſported to other Nations, and to be hoarded by Miſers, who fondly dote on the Metals.</p>
+               <p>Mony is only a ſecure Pledge of a known Value, that a Man ſhall be repaid in ſome other Commodity, for the Commodity he parts with; and it ſerves but to ſupply the Intervals of Time, be<g ref="char:EOLhyphen"/>tween the felling one Commodity, and buying of another.</p>
+               <p>Now the propoſed Bills of Credit, can well ſupply that Interval, and are yet a more ſecure pledge than Mony of Gold and Silver; for 10000 l. in Mony of Gold and Silver, is of no greater Value than what it pretends; and is very often of a leſs Value; but 10000 l. in this Credit, will be ſecured by 22500 l. in Land, for to ſo much amounts 150 l. per Annum, the payment thereof for 100 Years being ſecured by 150 Years; tho' to be void upon an Hundred Annual Payments.</p>
+               <p>The Difference between the true value of Land and Mony is e<g ref="char:EOLhyphen"/>vident; in that Money is willingly turned into Land; but Land is not turned into Mony, but through Neceſſity and Conſtraint: All Men allow Land a ſufficient and the beſt ſecurity for Mony; what ſecures muſt then be more eligible, than what is ſecured.</p>
+            </div>
+            <div type="part">
+               <head>A Compariſon of the Circulation of Gold and of Credit.</head>
+               <p>A ſettles his Land for 100 Years, to pay 100 l. of annual Rent, in Bills of Credit to the Office, he receiving in the ſame Credit a Sum or Conſideration for the purchaſe of it: B. makes a like ſettlement of Lands to C. to pay 100 l. in Gold for the ſame term of Years, having received his purchace Mony in Gold.</p>
+               <p>
+                  <hi>A.</hi> pays a Debt of 100 l. in this Credit to his Coach Maker, the Coach Maker pays it to the Currier for Leather, the Currier pays the ſame to the Tanner for Hides, the Tanner pays the ſame to the Butcher for Skins and raw Hides, the Butcher to a Graſier for Cattle, the Graſier to a Farmer for Corn and Graſs, the Farmer pays it to <hi>A.</hi> his Land-Lord, and A. pays it to the Office, for his
+<pb n="14" facs="tcp:174307:12"/>annual Rent: Now here is all their Occaſions anſwered, and none the worſe or the poorer by it, but the contrary, the Office recei<g ref="char:EOLhyphen"/>ving back what is delivered out.</p>
+            </div>
+            <div type="part">
+               <head>Now take the Payments, as running in Gold.</head>
+               <p>
+                  <hi>B.</hi> pays a Debt in Gold of 100 l. to his Coach-Maker, the Coach-Maker pays the ſame to a Currier for Leather, the Currier pays it to a Tanner for Hides, the Tanner to a Butcher for Skins and raw Hides, the Butcher to a Graſier for Cattle, the Graſier pays it to a Farmer for Corn and Graſs, the Farmer pays it to <hi>B.</hi> his Land-Lord for Rent, and the Land-Lord pays the ſame Gold to <hi>C.</hi> for his annual Rent: Now, by this compariſon it is plain, in the cir<g ref="char:EOLhyphen"/>culation and courſe of Dealing, from the Office to the Land-Lord and back to the Office again, the Turn is as well ſerved as in the Inſtance of Gold; and the Office is no poorer in receiving back the Credit, nor <hi>C.</hi> no richer in receiving back his Gold; than both were at the iſſuing of their ſeveral Sums, in Credit, and Gold.</p>
+            </div>
+            <div type="part">
+               <head>Arguments to Accept Dr. <hi>Chamberlen</hi>'s Propoſal.</head>
+               <p>The Propoſal offers 70 Years Purchaſe; (that is, 40 down, and 30 in a Joint Stock of Trade) for 100 Years <hi>Annual Rent;</hi> and this Bargain is to be had in Poſſeſſion, before any Rent paid: In the ſame Specie that is Paid for the Purchaſe, in the very ſame, and no other, the <hi>Annual Rent</hi> is to be Paid; ſo that here is nothing given but what will be received back; and and if any Man is Compelled by Law to receive Debt or Pay<g ref="char:EOLhyphen"/>ment in this Specie; another is by the ſame Law Bound to receive it from him again; and ſo from Hand to Hand, till at laſt it ends in the <hi>Annual Rent,</hi> which the Land is Obliged to Pay; and there it Ceaſeth.</p>
+               <p>Would it do <hi>Ireland</hi> a Service to bring ſome Millions of Gold and Silver into it? This is Equivalent: For, ſince Credit, upon a leſs ſecure Fund, performs in other Countrys, all the Uſes and Offices of Gold and Silver: What ſhould hinder the ſame Effects here, upon a better Fund? But however, if an Act of Parlia<g ref="char:EOLhyphen"/>ment
+<pb n="15" facs="tcp:174307:12"/>paſs, <hi>de bene eſſe,</hi> the Nation runs no Risk, if it do not take; if it doth take, there is a Mine of Treaſure opened to them <hi>Gratis.</hi> The paſſing the Act Compels no Man to come in, and Engage his Land. The Propoſal is not ſo very Obſcure or Myſterious, to ſuch as will take the pains to Read it two or three times over Deliberately and Attentively, and will then hearken, to what Anſwers can be given to any ſeeming Dif<g ref="char:EOLhyphen"/>ficulty. The manner of putting it into Practice, and actual Adminiſtration of it, will indeed require an uncommon Skill and Underſtanding: And this part, Dr. <hi>Chamberlen</hi> (whoſe Invention and Contrivance this deſign is, and who has been more than Thirty Years Maturing it) can beſt Diſcharge, ſo as to reduce all to ſuch an exact Method, as ſhall make the whole Clear and Facile; and prevent all Confuſion and Diſorder; which, ſhould they happen, might Diſgrace and Ruine the Undertaking: But to ſettle this Point, and concert the Matter of Trade for the greateſt Benefit of this Kingdom; the Doctor, in caſe the Act paſs, will be ready upon Requeſt to come into <hi>Ireland.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:174307:13"/>
+            <pb facs="tcp:174307:13"/>
+            <pb facs="tcp:174307:14"/>
+            <pb facs="tcp:174307:14"/>
+            <pb facs="tcp:174307:15"/>
+            <pb facs="tcp:174307:15"/>
+            <pb facs="tcp:174307:16"/>
+            <pb facs="tcp:174307:16"/>
+         </div>
+      </body>
+   </text>
+</TEI>
